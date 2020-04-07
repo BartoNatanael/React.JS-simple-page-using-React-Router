@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Simple-page-using-React-Router/static/css/main.6902e846.chunk.css",
+    "main.js": "/Simple-page-using-React-Router/static/js/main.7c07f52c.chunk.js",
+    "main.js.map": "/Simple-page-using-React-Router/static/js/main.7c07f52c.chunk.js.map",
+    "runtime-main.js": "/Simple-page-using-React-Router/static/js/runtime-main.dd7eacf4.js",
+    "runtime-main.js.map": "/Simple-page-using-React-Router/static/js/runtime-main.dd7eacf4.js.map",
+    "static/js/2.f3be31ea.chunk.js": "/Simple-page-using-React-Router/static/js/2.f3be31ea.chunk.js",
+    "static/js/2.f3be31ea.chunk.js.map": "/Simple-page-using-React-Router/static/js/2.f3be31ea.chunk.js.map",
+    "index.html": "/Simple-page-using-React-Router/index.html",
+    "precache-manifest.a7b293bb81b0ffcbc4e6448d18033c38.js": "/Simple-page-using-React-Router/precache-manifest.a7b293bb81b0ffcbc4e6448d18033c38.js",
+    "service-worker.js": "/Simple-page-using-React-Router/service-worker.js",
+    "static/css/main.6902e846.chunk.css.map": "/Simple-page-using-React-Router/static/css/main.6902e846.chunk.css.map",
+    "static/js/2.f3be31ea.chunk.js.LICENSE.txt": "/Simple-page-using-React-Router/static/js/2.f3be31ea.chunk.js.LICENSE.txt",
+    "static/media/header1.jpg": "/Simple-page-using-React-Router/static/media/header1.70e6670e.jpg",
+    "static/media/header2.jpg": "/Simple-page-using-React-Router/static/media/header2.33eca35f.jpg",
+    "static/media/header3.jpg": "/Simple-page-using-React-Router/static/media/header3.d9d36b65.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dd7eacf4.js",
+    "static/js/2.f3be31ea.chunk.js",
+    "static/css/main.6902e846.chunk.css",
+    "static/js/main.7c07f52c.chunk.js"
+  ]
+}
