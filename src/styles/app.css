@@ -1,0 +1,40 @@
+div.App{
+    display: flex;
+    flex-direction: column;
+    width: 90%;
+    margin: 0 auto;
+    /* background-color: #ddd; */
+    min-height: 100vh;
+}
+
+header {
+    flex-basis: 30vh;
+    /* background-color: black; */
+    color: white;
+}
+
+main {
+    padding: 30px 0;
+    /* background-color: #555; */
+    flex-grow: 1;
+    display: flex;
+}
+
+aside{
+    min-width: 240px;
+    /* background-color: #999; */
+}
+
+section.Blog{
+    flex-grow: 1;
+    /* background-color: red; */
+}
+
+footer {
+    background-color: black;
+    color: white;
+    padding: 10px 0;
+    text-align: center;
+    text-transform: uppercase;
+    margin-bottom: 50px;
+}
